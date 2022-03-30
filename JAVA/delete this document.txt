@@ -1,0 +1,13 @@
+public class demo{
+public static void main (String[] args){
+system.out.println("Helloworld")
+}
+}wuigfpehgs
+
+rdmt
+wr
+rd
+ry
+s
+
+s
